@@ -1,0 +1,1014 @@
+/home/david/
+├── Desktop
+├── Documents
+├── Downloads
+│   ├── pia-linux-1.2.1-02688.run
+│   └── Win10_1903_V1_English_x64.iso
+├── installed-applications.txt
+├── Music
+├── NetworkScans
+│   └── 201906150124 Intense scan on 192.168.86.0_24.xml
+├── Pictures
+├── Projects
+│   ├── 100DaysOfCode
+│   │   ├── 001
+│   │   │   ├── __init__.py
+│   │   │   ├── pytip.py
+│   │   │   └── README.md
+│   │   ├── 002
+│   │   │   ├── get_ips.py
+│   │   │   └── __init__.py
+│   │   ├── 003
+│   │   │   ├── create_gif.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 004
+│   │   │   ├── __init__.py
+│   │   │   ├── list_to_string.py
+│   │   │   └── requirements.txt
+│   │   ├── 005
+│   │   │   ├── create_tweet.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 006
+│   │   │   ├── __init__.py
+│   │   │   └── print_dict.py
+│   │   ├── 007
+│   │   │   ├── 100day_autotweet.py
+│   │   │   ├── config.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 008
+│   │   │   ├── __init__.py
+│   │   │   └── README.md
+│   │   ├── 009
+│   │   │   ├── __init__.py
+│   │   │   ├── newpost.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 010
+│   │   │   ├── __init__.py
+│   │   │   └── README.md
+│   │   ├── 011
+│   │   │   ├── email_list.py
+│   │   │   ├── generic_emailer.py
+│   │   │   └── __init__.py
+│   │   ├── 012
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── weather.py
+│   │   ├── 013
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   ├── templates
+│   │   │   │   └── weather.html
+│   │   │   └── weather.py
+│   │   ├── 014
+│   │   │   ├── __init__.py
+│   │   │   ├── lynda.py
+│   │   │   └── requirements.txt
+│   │   ├── 015
+│   │   │   ├── __init__.py
+│   │   │   └── numposts.py
+│   │   ├── 016
+│   │   │   ├── hosts.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── ssh_check_hostnames.py
+│   │   ├── 017
+│   │   │   ├── __init__.py
+│   │   │   └── safari.py
+│   │   ├── 018
+│   │   │   ├── __init__.py
+│   │   │   ├── output.png
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   ├── safari.py
+│   │   │   ├── test_safari.py
+│   │   │   └── titles.py
+│   │   ├── 019
+│   │   │   ├── __init__.py
+│   │   │   ├── number_sorter.py
+│   │   │   └── requirements.txt
+│   │   ├── 020
+│   │   │   ├── bot.sh
+│   │   │   ├── config.ini-example
+│   │   │   ├── domain_mentions.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 021
+│   │   │   ├── index_most_used.txt
+│   │   │   ├── index.txt
+│   │   │   ├── __init__.py
+│   │   │   ├── module_index.py
+│   │   │   ├── README.md
+│   │   │   └── stdlib.py
+│   │   ├── 022
+│   │   │   ├── genlink.py
+│   │   │   ├── __init__.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 023
+│   │   │   ├── harry.py
+│   │   │   ├── harry.txt
+│   │   │   └── __init__.py
+│   │   ├── 024
+│   │   │   ├── color.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 025
+│   │   │   ├── gen_testdb.py
+│   │   │   └── __init__.py
+│   │   ├── 026
+│   │   │   ├── __init__.py
+│   │   │   ├── omdb.py
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   └── templates.py
+│   │   ├── 027
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── warcraft_scraper.py
+│   │   ├── 028
+│   │   │   ├── __init__.py
+│   │   │   ├── safari_new_python_titles.ipynb
+│   │   │   └── tweets.csv
+│   │   ├── 029
+│   │   │   ├── __init__.py
+│   │   │   └── traffic_lights.py
+│   │   ├── 030
+│   │   │   ├── __init__.py
+│   │   │   └── movies.py
+│   │   ├── 031
+│   │   │   ├── __init__.py
+│   │   │   └── mv_files.py
+│   │   ├── 032
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── movies.py -> ../030/movies.py
+│   │   │   ├── movies.sqlite
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       ├── base.html
+│   │   │       ├── form.html
+│   │   │       ├── main.html
+│   │   │       └── movie.html
+│   │   ├── 033
+│   │   │   ├── data
+│   │   │   ├── email_list.py
+│   │   │   ├── __init__.py
+│   │   │   ├── readme.txt
+│   │   │   └── water_reminder.py
+│   │   ├── 034
+│   │   │   ├── example1.png
+│   │   │   ├── example2.png
+│   │   │   ├── __init__.py
+│   │   │   ├── podcast.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 035
+│   │   │   ├── __init__.py
+│   │   │   ├── readme.txt
+│   │   │   ├── requirements.txt
+│   │   │   └── text_replacer.py
+│   │   ├── 036
+│   │   │   ├── cache.py
+│   │   │   └── __init__.py
+│   │   ├── 037
+│   │   │   ├── __init__.py
+│   │   │   ├── pull_xml.py
+│   │   │   └── requirements.txt
+│   │   ├── 038
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   ├── sample
+│   │   │   │   ├── step1.png
+│   │   │   │   ├── step2.png
+│   │   │   │   ├── step3.png
+│   │   │   │   └── step4.png
+│   │   │   └── templates
+│   │   │       └── login.html
+│   │   ├── 039
+│   │   │   ├── dictionary.txt
+│   │   │   ├── __init__.py
+│   │   │   └── word_checker.py
+│   │   ├── 040
+│   │   │   ├── __init__.py
+│   │   │   ├── podcast.py
+│   │   │   └── requirements.txt
+│   │   ├── 041
+│   │   │   ├── dictionary.txt
+│   │   │   ├── __init__.py
+│   │   │   └── word_jumble.py
+│   │   ├── 042
+│   │   │   ├── bdays.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 043
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── reverse_list.py
+│   │   ├── 044
+│   │   │   ├── __init__.py
+│   │   │   └── names.py
+│   │   ├── 045
+│   │   │   ├── __init__.py
+│   │   │   ├── readme.txt
+│   │   │   ├── requirements.txt
+│   │   │   └── xml_steam_scraper.py
+│   │   ├── 046
+│   │   │   ├── authorize.py
+│   │   │   ├── greads.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 047
+│   │   │   ├── __init__.py
+│   │   │   ├── pull_xml.py
+│   │   │   ├── readme.txt
+│   │   │   └── requirements.txt
+│   │   ├── 048
+│   │   │   ├── __init__.py
+│   │   │   ├── names.py
+│   │   │   └── requirements.txt
+│   │   ├── 049
+│   │   │   ├── email_sqlite.py
+│   │   │   └── __init__.py
+│   │   ├── 050
+│   │   │   ├── cities.html
+│   │   │   ├── cities.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── simplemaps-worldcities-basic.csv
+│   │   ├── 051
+│   │   │   ├── __init__.py
+│   │   │   ├── requests_login.py
+│   │   │   └── requirements.txt
+│   │   ├── 052
+│   │   │   ├── __init__.py
+│   │   │   ├── repl.py
+│   │   │   └── requirements.txt
+│   │   ├── 053
+│   │   │   ├── fbpost.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 054
+│   │   │   ├── __init__.py
+│   │   │   └── person_class.py
+│   │   ├── 055
+│   │   │   ├── db_filter.png
+│   │   │   ├── db.py
+│   │   │   ├── __init__.py
+│   │   │   ├── pycon_site.png
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   ├── sqlite_import.png
+│   │   │   ├── talks.py
+│   │   │   └── wget.py
+│   │   ├── 056
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       └── bmi_calc.html
+│   │   ├── 057
+│   │   │   ├── __init__.py
+│   │   │   ├── pycon_stats.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 058
+│   │   │   ├── __init__.py
+│   │   │   └── karma.py
+│   │   ├── 059
+│   │   │   ├── catpic.png
+│   │   │   ├── __init__.py
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   └── send_sms.py
+│   │   ├── 060
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       ├── index.html
+│   │   │       └── pay_calc.html
+│   │   ├── 061
+│   │   │   ├── __init__.py
+│   │   │   ├── plan.py
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   ├── test_plan.py
+│   │   │   ├── week1.png
+│   │   │   └── welcome.png
+│   │   ├── 062
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       ├── friends.html
+│   │   │       └── index.html
+│   │   ├── 063
+│   │   │   ├── account.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── test_account.py
+│   │   ├── 064
+│   │   │   ├── appliance.py
+│   │   │   └── __init__.py
+│   │   ├── 065
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       └── index.html
+│   │   ├── 066
+│   │   │   ├── __init__.py
+│   │   │   ├── packt.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 067
+│   │   │   ├── __init__.py
+│   │   │   ├── movies.db
+│   │   │   └── random_movie.py
+│   │   ├── 068
+│   │   │   ├── __init__.py
+│   │   │   ├── PyBites.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 069
+│   │   │   ├── __init__.py
+│   │   │   └── pomodoro_timer.py
+│   │   ├── 070
+│   │   │   ├── __init__.py
+│   │   │   ├── pandas-html-tables.ipynb
+│   │   │   └── requirements.txt
+│   │   ├── 071
+│   │   │   ├── date_compare.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 072
+│   │   │   ├── __init__.py
+│   │   │   └── README.md
+│   │   ├── 073
+│   │   │   ├── ftp_downloader.py
+│   │   │   └── __init__.py
+│   │   ├── 074
+│   │   │   ├── __init__.py
+│   │   │   ├── opensans.ttf
+│   │   │   ├── requirements.txt
+│   │   │   └── text_on_image.py
+│   │   ├── 075
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── save_screenshot.py
+│   │   ├── 076
+│   │   │   ├── __init__.py
+│   │   │   ├── packt_notification.py
+│   │   │   └── requirements.txt
+│   │   ├── 077
+│   │   │   ├── __init__.py
+│   │   │   └── subclass_template.py
+│   │   ├── 078
+│   │   │   ├── account.py
+│   │   │   └── __init__.py
+│   │   ├── 079
+│   │   │   ├── __init__.py
+│   │   │   └── sqlite_db_check.py
+│   │   ├── 080
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── whotweeted.py
+│   │   ├── 081
+│   │   │   ├── data
+│   │   │   │   ├── 844092059988508673
+│   │   │   │   ├── 846302762736504833
+│   │   │   │   ├── 875382808897835013
+│   │   │   │   ├── 875594400872538112
+│   │   │   │   ├── 875632151990947840
+│   │   │   │   ├── 875639674244444160
+│   │   │   │   └── 875669971954806784
+│   │   │   ├── __init__.py
+│   │   │   ├── test_whotweeted.py
+│   │   │   └── whotweeted.py -> ../080/whotweeted.py
+│   │   ├── 082
+│   │   │   ├── __init__.py
+│   │   │   ├── list_timezones.py
+│   │   │   └── requirements.txt
+│   │   ├── 083
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       └── index.html
+│   │   ├── 084
+│   │   │   ├── ghstats.py
+│   │   │   ├── __init__.py
+│   │   │   └── requirements.txt
+│   │   ├── 085
+│   │   │   ├── exchange_rates.py
+│   │   │   └── __init__.py
+│   │   ├── 086
+│   │   │   ├── __init__.py
+│   │   │   ├── README.md
+│   │   │   └── twitter_archive.py
+│   │   ├── 087
+│   │   │   ├── currencies.txt
+│   │   │   ├── currency_converter.py
+│   │   │   └── __init__.py
+│   │   ├── 088
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── slack_rtm.py
+│   │   ├── 089
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── static
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       └── index.html
+│   │   ├── 090
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── serie_episodes.py
+│   │   ├── 091
+│   │   │   ├── __init__.py
+│   │   │   ├── lookup.png
+│   │   │   ├── README.md
+│   │   │   ├── requirements.txt
+│   │   │   └── series_network.py
+│   │   ├── 092
+│   │   │   ├── __init__.py
+│   │   │   └── network_ping.py
+│   │   ├── 093
+│   │   │   ├── archive
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── report.py
+│   │   │   │   ├── stats.py
+│   │   │   │   └── tweets.py
+│   │   │   ├── __init__.py
+│   │   │   └── main.py
+│   │   ├── 094
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   └── scp_files.py
+│   │   ├── 095
+│   │   │   ├── decorators.py
+│   │   │   ├── __init__.py
+│   │   │   ├── main.py
+│   │   │   ├── notifications
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── mail.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── themoviedb
+│   │   │   │   ├── decorators.py
+│   │   │   │   ├── genres.py
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── tmdb_api.py
+│   │   │   │   └── tmdb_init.py
+│   │   │   ├── tmdb_api.py
+│   │   │   └── tmdb_init.py
+│   │   ├── 096
+│   │   │   ├── __init__.py
+│   │   │   ├── output.txt
+│   │   │   ├── popular_tweets.py
+│   │   │   ├── requirements.txt
+│   │   │   └── tweets.py -> ../093/archive/tweets.py
+│   │   ├── 097
+│   │   │   ├── flask_setup.py
+│   │   │   └── __init__.py
+│   │   ├── 098
+│   │   │   ├── ig-api.png
+│   │   │   ├── __init__.py
+│   │   │   ├── pull_photos.py
+│   │   │   ├── README.md
+│   │   │   └── requirements.txt
+│   │   ├── 099
+│   │   │   ├── app.py
+│   │   │   ├── __init__.py
+│   │   │   ├── requirements.txt
+│   │   │   ├── screenshot.png
+│   │   │   ├── static
+│   │   │   │   ├── images
+│   │   │   │   │   ├── adventure_time.png
+│   │   │   │   │   ├── benderfry.jpg
+│   │   │   │   │   ├── Disney-Cars-Coloring-Pages-mcqueen.jpg
+│   │   │   │   │   ├── Disney-Cars-Coloring-Pages-Sally.jpg
+│   │   │   │   │   ├── how-to-draw-Tow-Mater-from-Cars-2-step-0.png
+│   │   │   │   │   ├── Human_Simpson_Children.PNG
+│   │   │   │   │   └── TW-122.jpg
+│   │   │   │   └── style.css
+│   │   │   └── templates
+│   │   │       └── index.html
+│   │   ├── 100
+│   │   │   ├── __init__.py
+│   │   │   ├── loc_stats.py
+│   │   │   ├── output.png
+│   │   │   └── requirements.txt
+│   │   ├── common
+│   │   │   ├── mail.py
+│   │   │   ├── README.md
+│   │   │   └── twitter_config.py
+│   │   ├── init.py
+│   │   ├── LOG.md
+│   │   └── README.md
+│   ├── css-grid-layouts
+│   │   ├── index.html
+│   │   └── style.css
+│   ├── davidprush.github.io
+│   │   ├── assets
+│   │   │   └── css
+│   │   │       └── style.scss.jekyll
+│   │   ├── CNAME
+│   │   ├── _config.yml
+│   │   ├── help.md
+│   │   ├── index.md
+│   │   ├── _layouts
+│   │   │   └── default.html
+│   │   ├── linux_fanatic_turned_windows_pragmatist.md
+│   │   ├── still_a_linux_enthusiast.md
+│   │   └── thumbnail.png
+│   ├── electron-practice
+│   │   ├── BrowserWindow
+│   │   │   ├── index.html
+│   │   │   ├── main.js
+│   │   │   └── package.json
+│   │   ├── CHANGELOG.md
+│   │   ├── CONTRIBUTING.md
+│   │   ├── FirstElectronApp
+│   │   │   ├── index.html
+│   │   │   ├── main.js
+│   │   │   └── package.json
+│   │   ├── ICP
+│   │   │   ├── index.html
+│   │   │   ├── index.js
+│   │   │   ├── main.js
+│   │   │   └── package.json
+│   │   ├── ISSUE_TEMPLATE.md
+│   │   ├── LICENSE.md
+│   │   ├── log.txt
+│   │   ├── MainRenderer
+│   │   │   ├── index.html
+│   │   │   ├── index.js
+│   │   │   ├── main.js
+│   │   │   ├── package.json
+│   │   │   ├── styles.css
+│   │   │   ├── winone.html
+│   │   │   ├── winone.js
+│   │   │   ├── winthree.html
+│   │   │   ├── winthree.js
+│   │   │   ├── wintwo.html
+│   │   │   └── wintwo.js
+│   │   ├── QuoteWidget
+│   │   │   ├── index.html
+│   │   │   ├── index.js
+│   │   │   ├── main.js
+│   │   │   ├── package.json
+│   │   │   └── styles.css
+│   │   ├── README.md
+│   │   ├── USER_GUIDE.md
+│   │   └── WebScraper
+│   │       ├── index.thml
+│   │       ├── main.js
+│   │       ├── package.json
+│   │       └── styles.css
+│   ├── epinuke
+│   │   ├── epinuke.py
+│   │   ├── epinuke.txt
+│   │   ├── init.sh
+│   │   └── temp
+│   │       ├── home_tree
+│   │       ├── pkgs
+│   │       ├── sources.list
+│   │       ├── sources.list~
+│   │       ├── sources.list.d
+│   │       │   ├── google-chrome.list
+│   │       │   ├── sublime-text.list
+│   │       │   ├── system76-ubuntu-pop-disco.list
+│   │       │   └── system76-ubuntu-pop-disco.list.save
+│   │       ├── sources.list.save
+│   │       ├── sysinfo
+│   │       └── user_installed_pkgs
+│   ├── Images
+│   │   ├── GimpTest.png
+│   │   └── Untitled.xcf
+│   ├── Python
+│   │   ├── analysis
+│   │   │   └── compression_analysis
+│   │   │       ├── compressed_image.png
+│   │   │       ├── example_image.jpg
+│   │   │       ├── example_wikipedia_image.jpg
+│   │   │       ├── original_image.png
+│   │   │       ├── PSNR-example-base.png
+│   │   │       ├── PSNR-example-comp-10.jpg
+│   │   │       └── psnr.py
+│   │   ├── arithmetic_analysis
+│   │   │   ├── bisection.py
+│   │   │   ├── intersection.py
+│   │   │   ├── lu_decomposition.py
+│   │   │   ├── newton_method.py
+│   │   │   └── newton_raphson_method.py
+│   │   ├── binary_tree
+│   │   │   └── basic_binary_tree.py
+│   │   ├── boolean_algebra
+│   │   │   └── quine_mc_cluskey.py
+│   │   ├── ciphers
+│   │   │   ├── affine_cipher.py
+│   │   │   ├── base16.py
+│   │   │   ├── base32.py
+│   │   │   ├── base64_cipher.py
+│   │   │   ├── base85.py
+│   │   │   ├── brute_force_caesar_cipher.py
+│   │   │   ├── caesar_cipher.py
+│   │   │   ├── cryptomath_module.py
+│   │   │   ├── elgamal_key_generator.py
+│   │   │   ├── hill_cipher.py
+│   │   │   ├── onepad_cipher.py
+│   │   │   ├── playfair_cipher.py
+│   │   │   ├── prehistoric_men.txt
+│   │   │   ├── rabin_miller.py
+│   │   │   ├── rot13.py
+│   │   │   ├── rsa_cipher.py
+│   │   │   ├── rsa_key_generator.py
+│   │   │   ├── simple_substitution_cipher.py
+│   │   │   ├── trafid_cipher.py
+│   │   │   ├── transposition_cipher_encrypt_decrypt_file.py
+│   │   │   ├── transposition_cipher.py
+│   │   │   ├── vigenere_cipher.py
+│   │   │   └── xor_cipher.py
+│   │   ├── data_structures
+│   │   │   ├── arrays.py
+│   │   │   ├── avl.py
+│   │   │   ├── binary tree
+│   │   │   │   ├── AVLtree.py
+│   │   │   │   ├── binary_search_tree.py
+│   │   │   │   ├── fenwick_tree.py
+│   │   │   │   ├── lazy_segment_tree.py
+│   │   │   │   └── segment_tree.py
+│   │   │   ├── hashing
+│   │   │   │   ├── double_hash.py
+│   │   │   │   ├── hash_table.py
+│   │   │   │   ├── hash_table_with_linked_list.py
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── number_theory
+│   │   │   │   │   ├── __init__.py
+│   │   │   │   │   └── prime_numbers.py
+│   │   │   │   └── quadratic_probing.py
+│   │   │   ├── heap
+│   │   │   │   └── heap.py
+│   │   │   ├── __init__.py
+│   │   │   ├── LCA.py
+│   │   │   ├── linked_list
+│   │   │   │   ├── doubly_linked_list.py
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── is_Palindrome
+│   │   │   │   ├── singly_linked_list.py
+│   │   │   │   └── swapNodes.py
+│   │   │   ├── queue
+│   │   │   │   ├── deqeue.py
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── queue_on_list.py
+│   │   │   │   └── queue_on_pseudo_stack.py
+│   │   │   ├── stacks
+│   │   │   │   ├── balanced_parentheses.py
+│   │   │   │   ├── infix_to_postfix_conversion.py
+│   │   │   │   ├── infix_to_prefix_conversion.py
+│   │   │   │   ├── __init__.py
+│   │   │   │   ├── next.py
+│   │   │   │   ├── postfix_evaluation.py
+│   │   │   │   ├── stack.py
+│   │   │   │   └── stock_span_problem.py
+│   │   │   ├── trie
+│   │   │   │   └── trie.py
+│   │   │   └── union_find
+│   │   │       ├── __init__.py
+│   │   │       ├── tests_union_find.py
+│   │   │       └── union_find.py
+│   │   ├── digital_image_processing
+│   │   │   ├── filters
+│   │   │   │   ├── __init__.py
+│   │   │   │   └── median_filter.py
+│   │   │   └── __init__.py
+│   │   ├── dynamic_programming
+│   │   │   ├── abbreviation.py
+│   │   │   ├── bitmask.py
+│   │   │   ├── coin_change.py
+│   │   │   ├── edit_distance.py
+│   │   │   ├── fastfibonacci.py
+│   │   │   ├── fibonacci.py
+│   │   │   ├── floyd_warshall.py
+│   │   │   ├── FractionalKnapsack.py
+│   │   │   ├── integer_partition.py
+│   │   │   ├── k_means_clustering_tensorflow.py
+│   │   │   ├── knapsack.py
+│   │   │   ├── longest_common_subsequence.py
+│   │   │   ├── longest_increasing_subsequence_O(nlogn).py
+│   │   │   ├── longest_increasing_subsequence.py
+│   │   │   ├── longest_sub_array.py
+│   │   │   ├── matrix_chain_order.py
+│   │   │   ├── max_sub_array.py
+│   │   │   ├── minimum_partition.py
+│   │   │   └── rod_cutting.py
+│   │   ├── file_transfer_protocol
+│   │   │   ├── ftp_client_server.py
+│   │   │   └── ftp_send_receive.py
+│   │   ├── Graphs
+│   │   │   ├── articulation_points.py
+│   │   │   ├── a_star.py
+│   │   │   ├── basic_graphs.py
+│   │   │   ├── bellman_ford.py
+│   │   │   ├── BFS.py
+│   │   │   ├── breadth_first_search.py
+│   │   │   ├── check_bipartite_graph_bfs.py
+│   │   │   ├── depth_first_search.py
+│   │   │   ├── DFS.py
+│   │   │   ├── dijkstra_2.py
+│   │   │   ├── dijkstra_algorithm.py
+│   │   │   ├── dijkstra.py
+│   │   │   ├── Directed and Undirected (Weighted) Graph.py
+│   │   │   ├── even_tree.py
+│   │   │   ├── finding_bridges.py
+│   │   │   ├── floyd_warshall.py
+│   │   │   ├── graph_list.py
+│   │   │   ├── graph_matrix.py
+│   │   │   ├── graph.py
+│   │   │   ├── kahns_algorithm_long.py
+│   │   │   ├── kahns_algorithm_topo.py
+│   │   │   ├── minimum_spanning_tree_kruskal.py
+│   │   │   ├── minimum_spanning_tree_prims.py
+│   │   │   ├── multi_hueristic_astar.py
+│   │   │   ├── scc_kosaraju.py
+│   │   │   └── tarjans_scc.py
+│   │   ├── hashes
+│   │   │   ├── chaos_machine.py
+│   │   │   ├── md5.py
+│   │   │   └── sha1.py
+│   │   ├── License
+│   │   ├── linear_algebra_python
+│   │   │   ├── README.md
+│   │   │   └── src
+│   │   │       ├── lib.py
+│   │   │       └── tests.py
+│   │   ├── machine_learning
+│   │   │   ├── decision_tree.py
+│   │   │   ├── gradient_descent.py
+│   │   │   ├── k_means_clust.py
+│   │   │   ├── linear_regression.py
+│   │   │   ├── logistic_regression.py
+│   │   │   ├── NaiveBayes.ipynb
+│   │   │   ├── perceptron.py
+│   │   │   ├── Random Forest Classification
+│   │   │   │   ├── random_forest_classification.py
+│   │   │   │   ├── Random Forest Classifier.ipynb
+│   │   │   │   └── Social_Network_Ads.csv
+│   │   │   ├── Random Forest Regression
+│   │   │   │   ├── Position_Salaries.csv
+│   │   │   │   ├── Random Forest Regression.ipynb
+│   │   │   │   └── random_forest_regression.py
+│   │   │   ├── reuters_one_vs_rest_classifier.ipynb
+│   │   │   └── scoring_functions.py
+│   │   ├── maths
+│   │   │   ├── basic_maths.py
+│   │   │   ├── factorial_python.py
+│   │   │   ├── fibonacci_sequence_recursion.py
+│   │   │   ├── greater_common_divisor.py
+│   │   │   ├── modular_exponential.py
+│   │   │   ├── newton_raphson.py
+│   │   │   ├── PrimeCheck.py
+│   │   │   ├── segmented_sieve.py
+│   │   │   ├── sieve_of_eratosthenes.py
+│   │   │   ├── simpson_rule.py
+│   │   │   └── trapezoidal_rule.py
+│   │   ├── Maths
+│   │   │   ├── 3n+1.py
+│   │   │   ├── absMax.py
+│   │   │   ├── absMin.py
+│   │   │   ├── abs.py
+│   │   │   ├── average.py
+│   │   │   ├── extended_euclidean_algorithm.py
+│   │   │   ├── find_lcm.py
+│   │   │   ├── FindMax.py
+│   │   │   └── FindMin.py
+│   │   ├── matrix
+│   │   │   ├── matrix_multiplication_addition.py
+│   │   │   └── searching_in_sorted_matrix.py
+│   │   ├── networking_flow
+│   │   │   ├── ford_fulkerson.py
+│   │   │   └── minimum_cut.py
+│   │   ├── neural_network
+│   │   │   ├── bpnn.py
+│   │   │   ├── convolution_neural_network.py
+│   │   │   ├── fcn.ipynb
+│   │   │   └── perceptron.py
+│   │   ├── other
+│   │   │   ├── anagrams.py
+│   │   │   ├── binary_exponentiation_2.py
+│   │   │   ├── binary_exponentiation.py
+│   │   │   ├── detecting_english_programmatically.py
+│   │   │   ├── dictionary.txt
+│   │   │   ├── euclidean_gcd.py
+│   │   │   ├── findingPrimes.py
+│   │   │   ├── fischer_yates_shuffle.py
+│   │   │   ├── frequency_finder.py
+│   │   │   ├── game_of_life
+│   │   │   │   ├── game_o_life.py
+│   │   │   │   └── sample.gif
+│   │   │   ├── linear_congruential_generator.py
+│   │   │   ├── nested_brackets.py
+│   │   │   ├── palindrome.py
+│   │   │   ├── password_generator.py
+│   │   │   ├── primelib.py
+│   │   │   ├── sierpinski_triangle.py
+│   │   │   ├── tower_of_hanoi.py
+│   │   │   ├── two_sum.py
+│   │   │   ├── word_patterns.py
+│   │   │   └── words
+│   │   ├── project_euler
+│   │   │   ├── problem_01
+│   │   │   │   ├── sol1.py
+│   │   │   │   ├── sol2.py
+│   │   │   │   ├── sol3.py
+│   │   │   │   ├── sol4.py
+│   │   │   │   └── sol5.py
+│   │   │   ├── problem_02
+│   │   │   │   ├── sol1.py
+│   │   │   │   ├── sol2.py
+│   │   │   │   └── sol3.py
+│   │   │   ├── problem_03
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_04
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_05
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_06
+│   │   │   │   ├── sol1.py
+│   │   │   │   ├── sol2.py
+│   │   │   │   └── sol3.py
+│   │   │   ├── problem_07
+│   │   │   │   ├── sol1.py
+│   │   │   │   ├── sol2.py
+│   │   │   │   └── sol3.py
+│   │   │   ├── problem_08
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_09
+│   │   │   │   ├── sol1.py
+│   │   │   │   ├── sol2.py
+│   │   │   │   └── sol3.py
+│   │   │   ├── problem_10
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_11
+│   │   │   │   ├── grid.txt
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_12
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_13
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_14
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_15
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_16
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_17
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_19
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_20
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_21
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_22
+│   │   │   │   ├── p022_names.txt
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_24
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_25
+│   │   │   │   ├── sol1.py
+│   │   │   │   └── sol2.py
+│   │   │   ├── problem_28
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_29
+│   │   │   │   └── solution.py
+│   │   │   ├── problem_31
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_36
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_40
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_48
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_52
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_53
+│   │   │   │   └── sol1.py
+│   │   │   ├── problem_76
+│   │   │   │   └── sol1.py
+│   │   │   └── README.md
+│   │   ├── README_files
+│   │   │   ├── 687474703a2f2f7777772e7475746f7269616c73706f696e742e636f6d2f.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_002.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_002.png
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_003.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_003.png
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_004.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_004.png
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_005.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_005.png
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f7267_006.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77.gif
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77.png
+│   │   │   ├── 68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77.svg
+│   │   │   └── sortinggraphs.png
+│   │   ├── README.html
+│   │   ├── README.md
+│   │   ├── searches
+│   │   │   ├── binary_search.py
+│   │   │   ├── interpolation_search.py
+│   │   │   ├── jump_search.py
+│   │   │   ├── linear_search.py
+│   │   │   ├── quick_select.py
+│   │   │   ├── sentinel_linear_search.py
+│   │   │   ├── tabu_search.py
+│   │   │   ├── tabu_test_data.txt
+│   │   │   ├── ternary_search.py
+│   │   │   └── test_tabu_search.py
+│   │   ├── simple_client
+│   │   │   ├── client.py
+│   │   │   ├── README.md
+│   │   │   └── server.py
+│   │   ├── sorts
+│   │   │   ├── BitonicSort.py
+│   │   │   ├── bogosort.py
+│   │   │   ├── bubble_sort.py
+│   │   │   ├── bucket_sort.py
+│   │   │   ├── cocktail_shaker_sort.py
+│   │   │   ├── comb_sort.py
+│   │   │   ├── counting_sort.py
+│   │   │   ├── cyclesort.py
+│   │   │   ├── external-sort.py
+│   │   │   ├── gnome_sort.py
+│   │   │   ├── heap_sort.py
+│   │   │   ├── insertion_sort.py
+│   │   │   ├── merge_sort_fastest.py
+│   │   │   ├── merge_sort.py
+│   │   │   ├── normal_distribution_quick_sort.md
+│   │   │   ├── pancake_sort.py
+│   │   │   ├── quick_sort_3_partition.py
+│   │   │   ├── quick_sort.py
+│   │   │   ├── radix_sort.py
+│   │   │   ├── random_normal_distribution_quicksort.py
+│   │   │   ├── selection_sort.py
+│   │   │   ├── shell_sort.py
+│   │   │   ├── sorting_graphs.png
+│   │   │   ├── timsort.py
+│   │   │   ├── topological_sort.py
+│   │   │   ├── tree_sort.py
+│   │   │   └── wiggle_sort.py
+│   │   ├── strings
+│   │   │   ├── knuth_morris_pratt.py
+│   │   │   ├── levenshtein_distance.py
+│   │   │   ├── manacher.py
+│   │   │   ├── min_cost_string_conversion.py
+│   │   │   ├── naiveStringSearch.py
+│   │   │   └── rabin_karp.py
+│   │   └── traversals
+│   │       └── binary_tree_traversals.py
+│   ├── python-practice
+│   │   ├── LICENSE.md
+│   │   └── README.md
+│   ├── ScrapeGuide
+│   │   └── Scrape_Guide.py
+│   └── ubuntu-post-install
+│       ├── PostInstallApps.sh
+│       └── README.md
+├── Public
+├── Templates
+├── test.txt
+└── Videos
+
+230 directories, 781 files
