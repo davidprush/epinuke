@@ -6,7 +6,7 @@
 
 ## Previous Failures
 
-### First my initial embarrasing Fedora scripts...
+### First my initial embarrassing Fedora scripts...
 
 * [fedora-post-install](https://github.com/davidprush/fedora-post-install)
 * [FedoraPostInstall](https://github.com/davidprush/FedoraPostInstall)
