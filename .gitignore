@@ -1,12 +1,11 @@
 # Test files and directories
 */temp
-test.sh
+#test.sh
+#test2.sh
+#epinuke.py
 bash_examples.sh
 bash_info.html
-epinuke.py
 test_README.md
-test.sh
-test2.sh
 test.txt
 installed-applications.txt
 install_example.sh
