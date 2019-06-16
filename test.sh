@@ -12,7 +12,6 @@ NOCLR="\\033[0m"
 GREEN="\\033[1;32m"
 RED="\\033[1;31m"
 YELLOW="\\033[1;33m"
-PURPLE="\\033[1;35m"
 
 # Warning messages
 OPTERR="The following option is invalid:."
