@@ -41,23 +41,23 @@ All actions and options must be separated by spaces
 * default path is the current directory
 
 ## ACTIONS
-* all-actions 		perform all actions against option(s)
-* compare 			compare [option(s)] against current system
-					*requires valid back files to compare against current system
-* get 				get selected [option(s)] files in path
-* install 			install selected [option(s)] from files in path
-					*this verifies files in path
-* list 				list [option(s)] data in formatted output
-					*requires valid backup files
-* help 				display help for [option] or all options 
+* all-actions       perform all actions against option(s)
+* compare           compare [option(s)] against current system
+                    *requires valid back files to compare against current system
+* get               get selected [option(s)] files in path
+* install           install selected [option(s)] from files in path
+                    *this verifies files in path
+* list              list [option(s)] data in formatted output
+                    *requires valid backup files
+* help              display help for [option] or all options 
 
 ## OPTIONS
-* -a					perform [action] against [option(s)]
-* -h					perform [action(s)] only against users home directory
-* -k 					perform [action(s)] only against apt-keys (apt repos)
-* -p					perform [action(s)] only against apt packages
-* -r					perform [action(s)] only against apt repos								
-					(epinuke --help or epinuke [option] -h)
+* -a                    perform [action] against [option(s)]
+* -h                    perform [action(s)] only against users home directory
+* -k                    perform [action(s)] only against apt-keys (apt repos)
+* -p                    perform [action(s)] only against apt packages
+* -r                    perform [action(s)] only against apt repos                              
+                    (epinuke --help or epinuke [option] -h)
 
 ## EXAMPLES
 * Run all actions against all all-actions & all options script (sudo used as required per command):   
@@ -75,7 +75,7 @@ All actions and options must be separated by spaces
     $ sh epinuke get -a '/media/data/user/backup'
 ```
 * List all keys and save in backup, if no path is provided, 
-	* a temp dir will be created and deleted when the script exits
+    * a temp dir will be created and deleted when the script exits
 ```shell
     sh epinuke list -k '~/backup'
-```			
+```         
